@@ -17,3 +17,4 @@
        <pre> ./runos_poller.py --ip 127.0.0.1 --port 8000 --interval 1 > data_2_test.csv # где data_2_test.csv выходной файл, с собираемыми данными </pre>
        
   5. Рассмотреть / запустить готовый проект *.ipynb (находящийся в папках CorrelationCoefficient и ArtificialNeuralNetwork) на https://colab.research.google.com/
+   (перед запуском в colab необходимо убедиться, что файлы data_2_test.csv загружен в файлы доступные на сервере)
